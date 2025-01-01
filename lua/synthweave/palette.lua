@@ -3,7 +3,7 @@ local c = {
 	-- fancy pansy colors
 	gray = "#848bbd",
 	carrot = "#f39237",
-	pink = "#ff7edb",
+	pink = "#ffe347",
 	salmon = "#f27059",
 	cyan = "#3bf4fb",
 	blue_bright = "#2ee2fa",

@@ -3,7 +3,7 @@ local c = {
 	-- fancy pansy colors
 	gray = "#848bbd",
 	carrot = "#f39237",
-	pink = "#ffe347",
+	pink = "#ff7edb",
 	salmon = "#f27059",
 	cyan = "#3bf4fb",
 	blue_bright = "#2ee2fa",
@@ -31,7 +31,7 @@ local c = {
 }
 
 -- primary fg
-c.fg = c.white_bluish
+c.fg = c.white
 
 -- primary bg
 c.bg0 = c.raisin0

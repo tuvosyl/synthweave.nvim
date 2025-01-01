@@ -13,7 +13,7 @@ local c = {
 	green_dark = "#297373",
 	purple = "#af125a",
 
-	white_bluish = "##2ec6ed",
+	white_bluish = "#2ec6ed",
 	white = "#fbf9ff",
 
 	sand = "#d7b49e",
